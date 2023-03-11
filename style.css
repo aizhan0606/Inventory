@@ -1,0 +1,32 @@
+body{
+    background-color: #000000;
+	margin: 0;
+}
+
+.form{
+width: 733px;
+height: 576px;
+margin: 248px 388px 200px;
+background: #FFFFFF;
+border-radius: 8px;
+}
+
+.form h1{
+font-family: 'Sora';
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+align-items: center;
+color: #000000;
+padding: 40px 0 0 20px;
+}
+ 
+.form p{
+font-family: 'Sora';
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+align-items: center;
+color: #000000;
+padding: 15px 0 0 24px;
+}
