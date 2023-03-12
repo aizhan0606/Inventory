@@ -5,7 +5,7 @@ body{
 
 .form{
 width: 700px;
-height: 576px;
+height: 590px;
 margin: 248px 388px 200px;
 background: #FFFFFF;
 border-radius: 8px;
@@ -127,4 +127,58 @@ border-radius: 8px;
 margin: 0 8px 0 0;
 background: url(images/date.svg) no-repeat center right 10%;
 margin: 0 0 0 8px;
+}
+/* //////////////////////////////////////////////////////// */
+.number{
+width: 168px;
+height: 48px;
+font-weight: 400;
+line-height: 18px;
+color: #DADADA;
+margin:16px 0 0 24px;
+border-radius: 8px;
+border: 1px solid;
+background-color: transparent;
+}
+.user-gmail{
+width: 168px;
+height: 48px;
+font-weight: 400;
+line-height: 18px;
+color: #DADADA;
+margin: 0 0 0 8px;
+border-radius: 8px;
+border: 1px solid;
+background-color: transparent;
+}
+.user{
+width: 168px;
+height: 48px;
+border: 0.5px solid;
+border-radius: 8px;
+margin: 0 8px 0 0;
+background: url(images/chose.svg) no-repeat center right 5%;
+margin: 0 24px 0 8px;
+}
+.fact-address{
+width: 384px;
+height: 48px;
+font-weight: 400;
+line-height: 18px;
+margin:16px 0 0 24px;
+border-radius: 8px;
+border: 1px solid;
+background-color: transparent;
+}
+.next{
+width: 352px;
+height: 48px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 30px;
+line-height: 25px;
+background-color: #000000;
+margin: 25px 156px;
+text-align: center;
+border-radius: 4px;
 }
