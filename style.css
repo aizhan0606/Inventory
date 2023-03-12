@@ -23,8 +23,8 @@ padding: 40px 0 0 20px;
  
 .form p{
 font-family: 'Sora';
-font-weight: 400;
-font-size: 16px;
+font-weight: 200;
+font-size: 18px;
 line-height: 20px;
 align-items: center;
 color: #000000;
@@ -67,7 +67,7 @@ padding: 0 16px;
 
 .form h2{
 font-family: 'Sora';
-font-weight: 400;
+font-weight: 200;
 font-size: 18px;
 line-height: 18px;
 color: #000000;
@@ -80,17 +80,51 @@ width: 168px;
 height: 48px;
 border: 0.5px solid;
 border-radius: 8px;
-margin: 0 24px 0 8px;
+margin: 0 8px 0 0;
 background: url(images/date.svg) no-repeat center right 10%;
 margin-left: 24px;
 }
 /* //////////////////////////////////////////////////////// */
 .address{
-width: 365px;
+width: 380px;
 height: 48px;
 font-weight: 400;
 line-height: 18px;
 border-radius: 8px;
 border: 1px solid;
 background-color: transparent;
+}
+/* ///////////////////////////// */
+.user-id{
+width: 168px;
+height: 48px;
+font-weight: 400;
+line-height: 18px;
+color: #DADADA;
+margin:16px 0 0 24px;
+border-radius: 8px;
+border: 1px solid;
+background-color: transparent;
+}
+/* //////////////////////////// */
+.user-inn{
+width: 168px;
+height: 48px;
+font-weight: 400;
+line-height: 18px;
+color: #DADADA;
+margin: 0 0 0 8px;
+border-radius: 8px;
+border: 1px solid;
+background-color: transparent;
+}
+/* /////////////////////////// */
+.date-get{
+width: 168px;
+height: 48px;
+border: 0.5px solid;
+border-radius: 8px;
+margin: 0 8px 0 0;
+background: url(images/date.svg) no-repeat center right 10%;
+margin: 0 0 0 8px;
 }
