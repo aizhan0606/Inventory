@@ -6,7 +6,7 @@ body{
 .form{
 width: 700px;
 height: 590px;
-margin: 248px 388px 200px;
+margin: 248px 388px 0;
 background: #FFFFFF;
 border-radius: 8px;
 }
@@ -195,7 +195,7 @@ width: 686px;
 height: 328px;
 background: #FFFFFF;
 border-radius: 4px;
-margin: 344px 400px 352px ;
+margin: 344px 400px 0;
 }
 
 .password h1{
@@ -271,6 +271,57 @@ background: #232529;
 border-radius: 4px;
 color: #FFFFFF;
 }
+/* 333333333333333333333 */
+body{
+    background-color: #000000;
+	margin: 0 auto;
+}
+
+.block-2{
+width: 640px;
+height: 264px;
+background: #FFFFFF;
+border-radius: 4px;
+margin: 344px 400px 0;
+}
+
+.block-2 h1{
+width: 256px;
+height: 24px;
+font-family: 'Sora';
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #000000;
+padding: 40px 192px 0 ;
+}
+.block-2 p{
+    margin-left: 16px;
+}
+.numbers{
+width: 608px;
+height: 48px;
+background-color: transparent;
+border: 0.5px solid #DADADA;
+border-radius: 4px;
+padding-left:32px ;
+font-family: 'Sora';
+font-size: 14px;
+line-height: 18px;
+}
+
+.link{
+width: 384px;
+height: 48px;
+background: #232529;
+border-radius: 4px;
+color: #FFFFFF;
+margin: 16px 144px 0;
+text-align: center;
+}
+
+
 
 
 
