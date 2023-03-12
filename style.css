@@ -25,7 +25,7 @@ padding: 40px 0 0 20px;
 font-family: 'Sora';
 font-weight: 400;
 font-size: 16px;
-line-height: 18px;
+line-height: 20px;
 align-items: center;
 color: #000000;
 padding: 15px 0 0 24px;
@@ -38,7 +38,7 @@ padding: 16px 0 0 40px;
 border: 0.5px solid;
 border-radius: 8px;
 background-color: transparent;
-margin: 16px 8px 16px 24px;
+margin: 16px 8px 0 24px;
 }
 .name{
 width: 168px;
@@ -63,4 +63,14 @@ font-family: 'Sora';
 font-size: 18px;
 color: #DADADA;
 padding: 0 16px;
+}
+
+.form h2{
+font-family: 'Sora';
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+color: #000000;
+padding-left: 24px;
+margin-top: 16px;
 }
