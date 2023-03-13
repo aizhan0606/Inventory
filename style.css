@@ -515,7 +515,7 @@ border-radius: 4px;
 /* 5555555555555555555555555555555 */
 
 body{
-    background: #E5E5E5;
+    background: #fdfdfd;
     margin: 0 ;  
 }
 .form-con{
@@ -554,7 +554,124 @@ line-height: 18px;
 color: #000000;
 margin: 16px 0 0 80px;
 }
-.
+.container1 input{
+width: 200px;
+height: 44px;
+font-family: 'Sora';
+font-size: 14px;
+line-height: 18px;
+background-color: transparent;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+margin-left: 8px;
+padding-left: 16px;
+color: #AEAEAE;
+
+}
+.container1{
+    display: flex;
+    margin: 8px 0 0 72px;
+}
+.brday{
+width: 200px;
+height: 44px;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+background-color: transparent;
+color: #AEAEAE;
+margin: 8px 0 0 80px;
+padding-left: 16px;
+background: url(images/date.svg) no-repeat center right 10%;
+}
+.address2{
+width: 408px;
+height: 44px;
+background-color: transparent;
+color: #AEAEAE;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+margin: 8px 0 0 8px;
+padding-left: 16px;
+}
+.number1{
+width: 200px;
+height: 44px;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+background-color: transparent;
+color: #AEAEAE;
+margin: 8px 0 0 80px;
+padding-left: 16px;
+}
+.email{
+width: 200px;
+height: 44px;
+background-color: transparent;
+color: #AEAEAE;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+margin: 8px 0 0 8px;
+padding-left: 16px;
+}
+.number-an{
+width: 200px;
+height: 44px;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+background-color: transparent;
+color: #AEAEAE;
+margin: 8px 0 0 80px;
+padding-left: 16px;
+}
+.number-inn{
+width: 200px;
+height: 44px;
+background-color: transparent;
+color: #AEAEAE;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+margin: 8px 0 0 8px;
+padding-left: 16px;
+}
+.take-date{
+    width: 200px;
+    height: 44px;
+    background-color: transparent;
+    color: #AEAEAE;
+    border: 0.5px solid #AEAEAE;
+    border-radius: 8px;
+    font-family: 'Sora';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 8px 0 0 8px;
+    padding-left: 16px;
+    background: url(images/date.svg) no-repeat center right 10%;  
+}
 
 
 
