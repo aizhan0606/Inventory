@@ -328,6 +328,44 @@ background: #FFFFFF;
 border-radius: 8px;
 margin: 248px 368px 0 408px;
 }
+.income h1{
+width: 478px;
+font-family: 'Sora';
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+background: #FFFFFF;
+border-radius: 8px;
+padding: 40px 166px 0 20px; 
+}
+.agency{
+width: 367px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #DADADA;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+margin-left: 24px;
+padding-left: 15px;
+}
+.post{
+width: 200px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #DADADA;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+margin: 0 24px 0 8px;
+padding-left: 16px;
+
+}
 
 
 
