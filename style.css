@@ -184,11 +184,6 @@ border-radius: 4px;
 }
 /* 222222222222222222222222222 */
 
-body{
-    background-color: #000000;
-	margin: 0 auto;
-
-}
 
 .block{
 width: 686px;
@@ -272,10 +267,6 @@ border-radius: 4px;
 color: #FFFFFF;
 }
 /* 333333333333333333333 */
-body{
-    background-color: #000000;
-	margin: 0 auto;
-}
 
 .block-2{
 width: 645px;
@@ -328,6 +319,14 @@ border-radius: 4px;
 color: #FFFFFF;
 margin: 16px 144px 0;
 text-align: center;
+}
+/* //////////////////// */
+.income{
+width: 664px;
+height: 608px;
+background: #FFFFFF;
+border-radius: 8px;
+margin: 248px 368px 0 408px;
 }
 
 
