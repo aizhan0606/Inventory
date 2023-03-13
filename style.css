@@ -278,7 +278,7 @@ body{
 }
 
 .block-2{
-width: 640px;
+width: 645px;
 height: 264px;
 background: #FFFFFF;
 border-radius: 4px;
@@ -290,7 +290,7 @@ width: 256px;
 height: 24px;
 font-family: 'Sora';
 font-weight: 600;
-font-size: 16px;
+font-size: 18px;
 line-height: 20px;
 text-align: center;
 color: #000000;
@@ -300,20 +300,29 @@ padding: 40px 192px 0 ;
     margin-left: 16px;
 }
 .numbers{
-width: 608px;
+width: 575px;
 height: 48px;
 background-color: transparent;
 border: 0.5px solid #DADADA;
 border-radius: 4px;
 padding-left:32px ;
-font-family: 'Sora';
 font-size: 14px;
 line-height: 18px;
+margin-left: 16px;
+}
+
+.private-number .numbers{
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: rgba(0, 0, 0, 0.25);
 }
 
 .link{
 width: 384px;
 height: 48px;
+font-size: 20px;
 background: #232529;
 border-radius: 4px;
 color: #FFFFFF;
