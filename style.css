@@ -322,7 +322,7 @@ text-align: center;
 }
 /* //////////////////// */
 .income{
-width: 664px;
+width: 665px;
 height: 608px;
 background: #FFFFFF;
 border-radius: 8px;
@@ -364,6 +364,147 @@ border: 0.5px solid #AEAEAE;
 border-radius: 8px;
 margin: 0 24px 0 8px;
 padding-left: 16px;
+}
+
+.wage-1{
+width: 272px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #DADADA;
+margin: 16px 0 0 24px;
+padding-left: 16px;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+}
+.wage-2{
+width: 295px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #DADADA;
+margin: 0 24px 0 8px;
+padding-left: 16px;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+}
+.income p{
+width: 332px;
+height: 16px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #000000;
+margin: 16px 0 0 24px;
+}
+.product{
+width:600px;
+height:44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #DADADA;
+border-radius: 8px;
+border: 0.5px solid #AEAEAE;
+margin: 8px 0 0 24px;
+padding-left: 16px;
+}
+.price{
+width: 176px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+border-radius: 8px;
+border: 0.5px solid #AEAEAE;
+color: #DADADA;
+margin: 16px 0 0 24px;
+padding-left: 16px;
+}
+.quality{
+width: 176px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+border-radius: 8px;
+border: 0.5px solid #AEAEAE;
+color: #DADADA;
+margin-left: 8px;
+padding-left: 16px;
+}
+.amount{
+width: 176px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+border-radius: 8px;
+border: 0.5px solid #AEAEAE;
+color: #DADADA;
+margin-left: 8px;
+padding-left: 16px;
+}
+.credit{
+width: 176px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+border-radius: 8px;
+border: 0.5px solid #AEAEAE;
+color: #DADADA;
+margin: 16px 0 0 24px;
+padding-left: 16px;
+}
+.term{
+width: 176px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+border-radius: 8px;
+border: 0.5px solid #AEAEAE;
+color: #DADADA;
+margin-left: 8px;
+padding-left: 16px;
+}
+.place{
+width: 625px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #DADADA;
+margin: 16px 0 0 24px;
+padding-left: 16px;
+border: 0.5px solid #AEAEAE;
+border-radius: 8px;
+
+}
+.submit{
+width: 384px;
+height: 44px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+color: #FFFFFF;
+margin: 40px 140px 0;
+background-color: #000000;
 
 }
 
