@@ -511,8 +511,50 @@ color: #FFFFFF;
 margin: 40px 140px 0;
 background-color: #000000;
 border-radius: 4px;
-
 }
+/* 5555555555555555555555555555555 */
+
+body{
+    background: #E5E5E5;
+    margin: 0 ;  
+}
+.form-con{
+width: 1440px;
+}
+
+.form-con h1{
+height: 24px;
+font-family: 'Sora';
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+color: #000000;
+margin: 44px 0 0 80px;
+}
+.form-con h2{
+height: 16px;
+font-family: 'Sora';
+font-weight: 600;
+font-size: 16px;
+line-height: 18px;
+color: #000000;
+margin: 24px 0 0 80px;
+}
+
+.text{
+    display: flex;
+}
+
+.form-con p{
+height: 16px;
+font-family: 'Sora';
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #000000;
+margin: 16px 0 0 80px;
+}
+.
 
 
 
